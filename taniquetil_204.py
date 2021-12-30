@@ -1,0 +1,7 @@
+num = int(input('Introduce un número: '))
+print(num - 2)
+print(num + 2)
+print(num * 2)
+print(num / 2)
+print(num // 2)
+print(num ** 2)
