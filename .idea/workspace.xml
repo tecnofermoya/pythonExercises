@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3dd432ae-d056-48ec-8333-80fc7f1a719a" name="Changes" comment="Añado secuencia_numeros.py">
-      <change afterPath="$PROJECT_DIR$/tablas_multiplicar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/triangulo_numeros.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="3dd432ae-d056-48ec-8333-80fc7f1a719a" name="Changes" comment="Añado tablas multiplicar y triangulo numeros">
+      <change beforePath="$PROJECT_DIR$/triangulo_numeros.py" beforeDir="false" afterPath="$PROJECT_DIR$/triangulo_numeros.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -200,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641930408297</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Añado tablas multiplicar y triangulo numeros">
+      <created>1643744521325</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1643744521325</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -233,6 +237,7 @@
     <MESSAGE value="Añado ejercicios adicionales" />
     <MESSAGE value="Añado escalera_numeros.py" />
     <MESSAGE value="Añado secuencia_numeros.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Añado secuencia_numeros.py" />
+    <MESSAGE value="Añado tablas multiplicar y triangulo numeros" />
+    <option name="LAST_COMMIT_MESSAGE" value="Añado tablas multiplicar y triangulo numeros" />
   </component>
 </project>
