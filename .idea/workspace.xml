@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3dd432ae-d056-48ec-8333-80fc7f1a719a" name="Changes" comment="Ejercicio contraseña">
-      <change afterPath="$PROJECT_DIR$/eco_hasta_salir.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/letra_en_frase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numero_primo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/palabra_al_reves.py" afterDir="false" />
+    <list default="true" id="3dd432ae-d056-48ec-8333-80fc7f1a719a" name="Changes" comment="Triángulo números terminado">
+      <change afterPath="$PROJECT_DIR$/beecrowd_1035_selection_test_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fibonacci.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +45,7 @@
     <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Python.eco_hasta_salir">
+  <component name="RunManager" selected="Python.fibonacci">
     <configuration name="contrasena" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -64,7 +67,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="eco_hasta_salir" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="escalera_numeros" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -76,7 +79,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/eco_hasta_salir.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/escalera_numeros.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,19 +88,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="letra_en_frase" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="fibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Program Files\Python39\python.exe" />
+      <option name="SDK_HOME" value="C:\Users\fmart\anaconda3\envs\pythonExercises\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/letra_en_frase.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fibonacci.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="numero_primo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="tablas_multiplicar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -118,7 +121,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/numero_primo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tablas_multiplicar.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="palabra_al_reves" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="triangulo_numeros" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -139,7 +142,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/palabra_al_reves.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/triangulo_numeros.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.eco_hasta_salir" />
-        <item itemvalue="Python.letra_en_frase" />
-        <item itemvalue="Python.palabra_al_reves" />
-        <item itemvalue="Python.numero_primo" />
+        <item itemvalue="Python.fibonacci" />
         <item itemvalue="Python.contrasena" />
+        <item itemvalue="Python.triangulo_numeros" />
+        <item itemvalue="Python.tablas_multiplicar" />
+        <item itemvalue="Python.escalera_numeros" />
       </list>
     </recent_temporary>
   </component>
@@ -216,21 +219,7 @@
       <option name="project" value="LOCAL" />
       <updated>1643744865339</updated>
     </task>
-    <task id="LOCAL-00008" summary="Ejercicio contraseña">
-      <created>1643745069832</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1643745069832</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Ejercicio contraseña">
-      <created>1643745103692</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1643745103692</updated>
-    </task>
-    <option name="localTasksCounter" value="10" />
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -265,7 +254,6 @@
     <MESSAGE value="Añado secuencia_numeros.py" />
     <MESSAGE value="Añado tablas multiplicar y triangulo numeros" />
     <MESSAGE value="Triángulo números terminado" />
-    <MESSAGE value="Ejercicio contraseña" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio contraseña" />
+    <option name="LAST_COMMIT_MESSAGE" value="Triángulo números terminado" />
   </component>
 </project>
